@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@android:color/holo_purple"
+    android:text="Mon 6/24 - sunny - 88/63"
+    android:gravity="center"
+    android:textSize="25sp"
+    android:id="@+id/textView"
+    />
